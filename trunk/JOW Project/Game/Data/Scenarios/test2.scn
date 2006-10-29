@@ -1,0 +1,10 @@
+Name 	[Test Scence]
+Map	    [test.map]
+##################################################
+Game Mode 	[1]	// Melee
+Game Rules	[0]
+Scence Script	[0]	// Not Implemented
+################################################## (Optional From Here)
+Team Count	[0]
+Unit Count	[0]
+##################################################

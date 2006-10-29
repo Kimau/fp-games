@@ -1,0 +1,40 @@
+Name	[Unit Name]
+Model	[Mesh File]
+Texture	[Texture]
+################################################	Physical Stats
+Health : Armour : Size	[0:0:0]
+Speed  : Agil   : Dodge	[0:0:0]
+Code   : Race   : Cost	[0:0:0]
+Move   : Climb  : Aura	[0:0:0]
+################################################	Functions
+Melee			[0:0:0]
+Direct			[0:0:0]
+InDirect		[0:0:0]
+Ability 0		[0:0:0]
+Ability 1		[0:0:0]
+Ability 2		[0:0:0]
+Ability 3		[0:0:0]
+Ability 4		[0:0:0]
+Ability 5		[0:0:0]
+Ability 6		[0:0:0]
+Ability 7		[0:0:0]
+Ability 8		[0:0:0]
+Ability 9		[0:0:0]
+################################################
+
+#define	TEAM_WAR			  1
+#define	TEAM_MAGE			  2
+#define	TEAM_MECH			  4
+#define	TEAM_UNDEAD			  8
+#define	TEAM_MON			 16
+#define	TEAM_ALCH			 32
+#define	TEAM_NAT			 64
+#define	TEAM_HOLY			128
+
+#define UID_ME_STEAMHEAD			301
+#define UID_ME_LUMBERJACK			302
+#define UID_ME_SLICENDICE			303
+#define UID_ME_RATATAT				304
+#define UID_ME_STEAMFIEND			305
+#define UID_ME_BIGBOOM				306
+#define UID_ME_COPTER				307
