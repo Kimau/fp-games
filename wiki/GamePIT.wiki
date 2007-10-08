@@ -30,7 +30,7 @@ A listing of all the episodes
     * Pointers
     * Function Pointers
   # 2D Games
-    * PTK 2D API
+    * [PTKIntro An Introduction to PTK]
     * 2D Games
     * Difference between `Char*` and `Char[]`
     * is `&table[0]` same as table
