@@ -1,10 +1,11 @@
 #summary An Introduction to PTK
+#labels PTK
 
 = Introduction =
 
 [http://www.phelios.com/ptk/ PTK] is a brilliant little 2D API. This is a little intro talked about in episode 13.
 
-=== Minium Setup ===
+=== Minimum Setup ===
 
 {{{
 /*		PTK Intro	
@@ -53,7 +54,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	//-----------------------------------
 	unsigned long _oldTime = KMiscTools::getMilliseconds();
 	unsigned long _newTime = 0;
-	srand(_oldTime);																// Seed Random
+	srand(_oldTime);			// Seed Random
 	g_Game = 0;
 	g_State = GS_NULL;
 
@@ -61,7 +62,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	//	Create Window
 	//-----------------------------------
 	g_gameWin = KPTK::createKWindow(K_OPENGL);										// Init Window
-	g_gameWin->createGameWindow(PTK_SCREENW,PTK_SCREENH,32,true,PTK_TITLE);			// Create Window
+	g_gameWin->createGameWindow(PTK_SCREENW,PTK_SCREENH,32,true,PTK_TITLE);	  // Create Window
 	g_gameWin->setPTKCallBack(&EventHandler);
 
 	g_gameGFX = KPTK::createKGraphic("ship.png");
