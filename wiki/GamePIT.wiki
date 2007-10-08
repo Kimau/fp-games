@@ -1,0 +1,50 @@
+#summary GamePIT Reference page for code talked about
+#labels Featured,gamepit
+
+= Introduction =
+
+Add your content here.
+
+
+= Episodes =
+A listing of all the episodes
+  # Bring in the Fools
+  # Give a Penny, Take a Penny
+    * General C+ Discussion
+    * [http://fp-games.googlecode.com/files/PTKCoin.7z First Game Assignment]
+  # Undead Legions of DOOOOOM!
+    * Rapid Prototyping
+    * Limited Time Devolpment
+  # Pick and Choose
+  # Feeding the Masses
+  # Merry Xmass for all given values of X
+  # Exam Me, Exam You
+  # Alternate Reality
+    * STL Queue
+    * Game Structure
+  # Genetics
+    * [http://www.flammablepenguins.com/Data/Checkers.7z Checkers Game]
+    * Genetic Programming
+  # Stop Pointing at Me
+    * Pointers
+    * Function Pointers
+  # 2D Games
+    * PTK 2D API
+    * 2D Games
+    * Difference between `Char*` and `Char[]`
+    * is `&table[0]` same as table
+  # Move and Shake, shake
+    * Image Collections
+    * Sprite Collections
+    * Delta Timer
+  # Sky is Falling Down!
+    * [http://fp-games.googlecode.com/files/Helper13.7z Helper Files]
+    * PTK Libary 
+  # Rank and File
+    * [http://fp-games.googlecode.com/files/Helper14.7z Helper Files]
+    * Our big first year maths assignment
+    * Headers and Objects (brief)
+    * Creating STL compliant Objects
+    * STL data management
+    * Event Handlers and Message Queues
+  # Into the Pixel Pit
