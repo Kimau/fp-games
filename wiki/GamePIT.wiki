@@ -3,8 +3,9 @@
 
 = Introduction =
 
-Add your content here.
+Game Programmers in Training is made by student programmers for aspiring games programmers. We intended to provide information and fun in equal doses. So if your intrested in games programming your intrested in the Game PIT.
 
+This page is meant to serve as a reference for the code talked about.
 
 = Episodes =
 A listing of all the episodes
