@@ -1,0 +1,4 @@
+// test55.scl : Generates syner error 203. Alternate 1.
+let string x = "hello" in
+let string y = "world" in
+  "Hello" + y end

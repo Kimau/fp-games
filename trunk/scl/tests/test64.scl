@@ -1,0 +1,2 @@
+// test64.scl : Generates syner error 212. Alternate 1.
+"Hello" == "Hello world" end

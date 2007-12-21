@@ -1,0 +1,5 @@
+// test21.scl : Generates syner error 211.
+let int  x = 6   in
+let bool y = true in
+  !x end
+

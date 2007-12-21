@@ -1,0 +1,8 @@
+Type error 214.
+Attempt to use > operator with a string value.
+Found : END
+s2 > s2
+
+Name	Type	Value
+s2	string	Hello world\n
+s1	string	Hello\n

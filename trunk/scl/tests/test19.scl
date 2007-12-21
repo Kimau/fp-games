@@ -1,0 +1,4 @@
+// test19.scl : Generates syner error 209.
+let bool x = false in
+let bool y = true  in
+  y % x end

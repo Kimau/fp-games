@@ -1,0 +1,3 @@
+// test77.scl : Generates lexer error 14.
+let float f = 1.0^3.6 in
+  f end

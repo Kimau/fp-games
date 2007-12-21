@@ -1,0 +1,4 @@
+// test28.scl : Generates syner error 218.
+let string s1 = 99              in
+let string s2 = "Hello world\n" in
+  s1 <= s2 end

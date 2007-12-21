@@ -1,0 +1,3 @@
+// test74.scl : Generates lexer error 7. Alternate 1.
+let float f = 99.9 in @
+  f end

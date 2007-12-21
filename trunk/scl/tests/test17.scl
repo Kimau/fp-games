@@ -1,0 +1,4 @@
+// test17.scl : Generates syner error 207.
+let bool x = false in
+let bool y = true  in
+  y * x end

@@ -1,0 +1,8 @@
+Type error 210.
+Attempt to use && operator with non-boolean operands.
+Found : END
+y && x
+
+Name	Type	Value
+y	int	7
+x	int	6

@@ -1,0 +1,5 @@
+// test50.scl : Generates syner error 101. Alternate 1.
+let int    x = 6       in
+let float  f = 3.2^56  in
+let string x = "Hello" in
+  x + y end

@@ -1,0 +1,8 @@
+Type error 205.
+Attempt to use || operator with non-boolean operands.
+Found : END
+x || y
+
+Name	Type	Value
+y	int	7
+x	int	6

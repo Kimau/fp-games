@@ -1,0 +1,8 @@
+Type error 204.
+Attempt to use - operator with non-numeric operands.
+Found : END
+x - y
+
+Name	Type	Value
+y	bool	true
+x	bool	false

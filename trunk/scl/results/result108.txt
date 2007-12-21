@@ -1,0 +1,5 @@
+true != b1
+
+Name	Type	Value
+b2	bool	false
+b1	bool	true

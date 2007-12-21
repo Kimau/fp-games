@@ -1,0 +1,3 @@
+// test80.scl : Check for -ve in exponent.
+let float f = 1.76^-34 in
+  f end

@@ -1,0 +1,15 @@
+(i1 == i2) || (i1 + i2 != i1 - i2) && (i1 * i2 > i1 / i2) || (i1 * i2 > i1 % i2) || (f1 < f2) && (f1 <= f2) || (f1 >= f2)
+
+Name	Type	Value
+s2	string	
+s1	string	\tHello\tWorld\n
+f4	float	1.234^565
+f3	float	1.23456789
+f2	float	0.1
+f1	float	0.0
+i_4_	int	10
+i3	int	0
+i2	int	99
+i1	int	32767
+b2	bool	false
+b1	bool	true

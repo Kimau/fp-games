@@ -1,0 +1,4 @@
+// test30.scl : Generates lexer error 2.
+let string s2 = "Hello world\n" in
+let string s1 = 99               in
+  s1 <= s2 end

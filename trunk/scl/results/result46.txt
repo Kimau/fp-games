@@ -1,0 +1,7 @@
+Syntax error 4.
+Expected = in declaration.
+Found : INTEGER LITERAL : 7
+
+
+Name	Type	Value
+x	int	6

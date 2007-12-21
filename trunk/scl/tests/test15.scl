@@ -1,0 +1,4 @@
+// test15.scl : Generates syner error 205.
+let int x = 6 in
+let int y = 7  in
+  x || y end

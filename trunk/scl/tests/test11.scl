@@ -1,0 +1,4 @@
+// test11.scl : Generates syner error 201.
+let int   x = 6   in
+let float y = 7.0 in
+  x == y end

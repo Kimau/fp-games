@@ -1,0 +1,8 @@
+Type error 215.
+Attempt to use < operator with a string value.
+Found : END
+s1 < \nAnd so is this.\n
+
+Name	Type	Value
+s2	string	Hello world\n
+s1	string	Hello\n

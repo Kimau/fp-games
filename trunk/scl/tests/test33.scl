@@ -1,0 +1,3 @@
+// test33.scl : Generates lexer error 5.
+let bool b = false in
+  b & b end

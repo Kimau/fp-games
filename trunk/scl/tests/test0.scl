@@ -1,0 +1,23 @@
+// test0.scl : Tries to include every lexical token and
+// a few random comments.
+
+let bool   b1   = true               in
+let bool   b2   = false              in  // Random comment 1
+let int    i1   = 32767              in
+let int    i2   = 99                 in
+let int    i3   = 0                  in
+let int    i_4_ = 10                 in
+let float  f1   = 0.0                in
+let float  f2   = 0.1                in
+let float  f3   = 1.23456789         in
+let float  f4   = 1.234^5            in
+let string s1   = "\tHello\tWorld\n" in  // Random comment 2
+let string s2   = ""                 in
+(i1      == i2)      || 
+(i1 + i2 != i1 - i2) &&
+(i1 * i2 >  i1 / i2) ||
+(i1 * i2 >  i1 % i2) ||                  // Random comment 3
+(f1      <  f2     ) &&
+(f1      <= f2     ) ||
+(f1      >= f2     ) 
+end                                       // Random comment 4

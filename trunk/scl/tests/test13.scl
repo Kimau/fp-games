@@ -1,0 +1,4 @@
+// test13.scl : Generates syner error 203.
+let bool x = false in
+let bool y = true  in
+  x + y end

@@ -1,0 +1,9 @@
+Static semantic error 102.
+Attempt to use undeclared identifier.
+Found : IDENTIFIER : z
+Error : empty factor.
+
+
+Name	Type	Value
+y	int	7
+x	int	6

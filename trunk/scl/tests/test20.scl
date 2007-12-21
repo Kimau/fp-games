@@ -1,0 +1,4 @@
+// test20.scl : Generates syner error 210.
+let int x = 6 in
+let int y = 7 in
+  y && x end

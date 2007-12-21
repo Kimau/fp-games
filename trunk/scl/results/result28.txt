@@ -1,0 +1,6 @@
+Type error 218.
+Mismatch between types in a declaration.
+Found : INTEGER LITERAL : 99
+
+
+Name	Type	Value

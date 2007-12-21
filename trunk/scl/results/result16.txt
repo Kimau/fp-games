@@ -1,0 +1,8 @@
+Type error 206.
+Mismatch between types in a term.
+Found : END
+x * y
+
+Name	Type	Value
+y	float	7.6^34
+x	int	6

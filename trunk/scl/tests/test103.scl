@@ -1,0 +1,8 @@
+// test103.scl : Use of <= on various floats.
+
+let float  f1   = 0.0                in
+let float  f2   = 0.1                in
+let float  f3   = 1.23456789         in
+let float  f4   = 1.234^565          in
+f2 <= 1.23
+end

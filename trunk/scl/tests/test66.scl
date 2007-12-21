@@ -1,0 +1,4 @@
+// test66.scl : Generates syner error 214. Alternate 1.
+let string s1 = "Hello\n"       in
+let string s2 = "Hello world\n" in
+  "This is really silly"  > s2 end

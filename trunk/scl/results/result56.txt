@@ -1,0 +1,8 @@
+Type error 204.
+Attempt to use - operator with non-numeric operands.
+Found : END
+x - Hello
+
+Name	Type	Value
+y	string	world
+x	string	hello

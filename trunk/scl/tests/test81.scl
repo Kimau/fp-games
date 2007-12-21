@@ -1,0 +1,3 @@
+// test81.scl : Check for rounding errors in float.
+let float f = 1.000000000000000000000000000000000000000000000000011 in
+  f end

@@ -1,0 +1,7 @@
+i1 % i2 % 99 % 93 % i3
+
+Name	Type	Value
+i_4_	int	10
+i3	int	0
+i2	int	99
+i1	int	32767

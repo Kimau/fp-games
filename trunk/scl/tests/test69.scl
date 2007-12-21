@@ -1,0 +1,4 @@
+// test69.scl : Generates syner error 217. Alternate 1.
+let string s1 = "Hello\n"       in
+let string s2 = "Hello world\n" in
+  "And so " <= "is this.\n" end
