@@ -1,0 +1,189 @@
+# Introduction #
+
+[PTK](http://www.phelios.com/ptk/) is a brilliant little 2D API. This is a little intro talked about in episode 13.
+
+### Minimum Setup ###
+
+```
+/*		PTK Intro	
+
+	Uses PTK lib located at http://www.phelios.com/ptk/
+	http://www.flammablepenguins.com/	- Claire "Kimau" Blackshaw
+
+*/
+
+//--------------------------------
+//	Includes
+//--------------------------------
+#include "ptk.h"
+#include "MyGame.h"
+
+//--------------------------------
+//	Define
+//--------------------------------
+#define		PTK_SCREENW		800
+#define		PTK_SCREENH		600
+#define		PTK_TITLE		"Flammable Penguins: Intro to PTK"
+
+//--------------------------------
+//	Predefine
+//--------------------------------
+void Render(MyGame& _game);
+bool EventHandler(KEvent* _eventPtr);
+
+//--------------------------------
+//	Globals
+//--------------------------------
+KWindow*	g_gameWin;			// PTK Window
+KGraphic*	g_gameGFX;			// PTK GFX Object
+KTrueText*      g_gameTxt;			// PTK Game Text
+
+GameState	g_State;			// Game State
+MyGame*		g_Game;
+
+//========================================================================
+//	WINDOWS MAIN FUNCTION
+//========================================================================
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd )
+{
+	//-----------------------------------
+	//	Startup
+	//-----------------------------------
+	unsigned long _oldTime = KMiscTools::getMilliseconds();
+	unsigned long _newTime = 0;
+	srand(_oldTime);			// Seed Random
+	g_Game = 0;
+	g_State = GS_NULL;
+
+	//-----------------------------------
+	//	Create Window
+	//-----------------------------------
+	g_gameWin = KPTK::createKWindow(K_OPENGL);										// Init Window
+	g_gameWin->createGameWindow(PTK_SCREENW,PTK_SCREENH,32,true,PTK_TITLE);	  // Create Window
+	g_gameWin->setPTKCallBack(&EventHandler);
+
+	g_gameGFX = KPTK::createKGraphic("ship.png");
+
+	KTrueText _text("5by5.ttf");
+	g_gameTxt = &_text;
+	g_gameTxt->setHeightPix(60);
+	g_gameTxt->setColor(0.0f,0.0f,1.0f,1.0);
+
+	//-----------------------------------
+	//	Init Game
+	//-----------------------------------
+	g_Game = &MyGame();
+	g_State = g_Game->Setup();       // Or Init whatever starting your game involves
+
+	//-----------------------------------
+	//	Game Loop
+	//-----------------------------------
+	while(g_gameWin->isQuit() == false)
+	{
+		//-------------------------
+		//	Update Timer
+		//-------------------------
+		_newTime = KMiscTools::getMilliseconds();
+		unsigned long _delta = _newTime - _oldTime;
+		_oldTime = _newTime;
+		srand(_oldTime * _delta);
+
+		//-------------------------
+		//	Action Game State
+		//-------------------------
+                g_Game->Update(_delta);
+		
+		//-----------------------------
+		//	Update State and Events
+		//-----------------------------
+		g_State = g_Game->getState();
+		g_gameWin->processEvents();
+	}
+
+	//-----------------------------------
+	//	Shutdown
+	//-----------------------------------
+	return 1;
+}
+
+//========================================================================
+//	Renders Game
+//========================================================================
+void Render(MyGame& _game)
+{
+	//-------------------------
+	//	Clean
+	//-------------------------
+	g_gameWin->setDefaultWorldView();
+	g_gameWin->setClearColor(0,0,0,1);
+
+	//-------------------------
+	//	Draw Blank
+	//-------------------------
+	g_gameGFX->drawRect(0,0,PTK_SCREENW,PTK_SCREENH, 0.0f, 0.0f, 0.0f, 1.0f);
+
+	//-------------------------
+	//	Draw Blocks
+        //  Left here as an example but NOT required
+	//-------------------------
+	GObject* _blocks = _game.getBlocks();
+	/*GObjects::const_iterator _last = _game.getBlocksEnd();
+	for(GObjects::const_iterator _iter = _game.getBlocksBegin(); _iter != _last; ++_iter)
+	{
+		g_gameGFX->drawRect(_iter->m_pos[0], _iter->m_pos[1],
+							_iter->m_pos[0] + _iter->m_size[0],
+							_iter->m_pos[1] + _iter->m_size[1],
+							1.0f, 0.0f, 0.0f, 1.0f);		
+	}*/
+	
+	for(int i = 0; i < MG_BLOCK_COUNT; ++i)
+	{
+		g_gameGFX->blitAlphaRect(
+			0,0, 20,20, 
+			short(_blocks[i].m_pos[0] - 10), 
+			short(PTK_SCREENH - _blocks[i].m_pos[1] + 10));
+	}
+
+	//-------------------------
+	// Draw Score
+        //  Left here as an example but NOT required
+	//-------------------------
+	int _score = _game.getScore();
+	char _buffer[20];
+	sprintf(_buffer,"%i", _score);
+	g_gameTxt->drawStringCentered(_buffer,0,800,500);
+
+	//-------------------------
+	// Buffer Flip
+	//-------------------------
+	g_gameWin->flipBackBuffer();
+}
+
+//========================================================================
+//	Handles Input
+//========================================================================
+bool EventHandler(KEvent* _eventPtr)
+{
+	switch(g_State)   // You might want to call an Event Handler of your game
+	{                 // This is just shown here as a demonstration.
+	case GS_NULL:			break;
+	case GS_SETUP:			break;
+	case GS_PLAY:
+		{
+			//----------------------------------
+			//	Mouse Click
+			//----------------------------------
+			if((_eventPtr->type == K_EVENT_MOUSEDOWN) && (_eventPtr->buttonIndex == K_LBUTTON))
+			{
+				g_Game->Shoot(_eventPtr->mouseX, PTK_SCREENH - _eventPtr->mouseY);
+			}
+		}
+		break;
+	case GS_GAMEOVER:		break;
+	};
+
+	return true;
+}
+```
+
+Hope that helps to get you coding.
