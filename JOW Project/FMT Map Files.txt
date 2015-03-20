@@ -1,0 +1,49 @@
+Filename [Hilltop Defense]
+Map Dimensions [50:50]
+Tileset [Nature\Outdoors.jpg]
+############################################
+: Height Map
+[04040404040404040404040404...]
+[04040404040404040404040404...]
+[04040404040404040404040404...]
+[04040404040404040404040404...]
+[04040404040404040404040404...]
+############################################
+: Tile Map
+[020202020202...]
+[020202020202...]
+[020202020202...]
+[020202020202...]
+############################################
+:Object Pallete
+Pallete Size [2]
+Mesh [Nature\Tree.obj] 
+Texture [Nature\Tree.jpg] 
+Logic [Nature\Tree.log] 
+Size[2:2:25]
+Mesh [Nature\Treehouse.obj] 
+Texture [Nature\Treehouse.jpg] 
+Logic [Nature\Treehouse.log] 
+Size[4:4:20]
+############################################
+:Object List
+List Size [5]
+[4:2:4:0:1]
+[3:25:4:0:1]
+[12:46:4:0:1]
+[42:43:4:1:1]
+[30:40:45:0:2]
+############################################
+:Game Infomation (Optional)
+Gamemode[Melee]
+Teams[2]
+Deploy[1,TLX,TLY,BRX,BRY]
+Deploy[2,TLX,TLY,BRX,BRY]
+EndGameMode
+Gamemode[KingofHill]
+Teams[2]
+King[1,TLX,TLY,BRX,BRY]
+Peroid[50]
+KingPoints[-100]
+EndGameMode
+############################################

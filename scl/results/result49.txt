@@ -1,0 +1,8 @@
+Syntax error 7.
+Expected right parenthesis in factor.
+Found : END
+(x + y + x)
+
+Name	Type	Value
+y	int	7
+x	int	6

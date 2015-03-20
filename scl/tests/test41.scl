@@ -1,0 +1,3 @@
+// test41.scl : Generates lexer error 13.
+let float f = 1.8^ in
+  f

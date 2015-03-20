@@ -1,0 +1,4 @@
+// test60.scl : Generates syner error 208. Alternate 1.
+let string x = "hello" in
+let string y = "world" in
+  x / "Hello" end

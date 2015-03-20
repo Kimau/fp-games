@@ -1,0 +1,7 @@
+Syntax error 8.
+Expected end after expression.
+Found : INT
+Error : empty factor.
+
+
+Name	Type	Value

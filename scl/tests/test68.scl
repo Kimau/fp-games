@@ -1,0 +1,2 @@
+// test68.scl : Generates syner error 216. Alternate 1.
+"This is " >= "really boring" end

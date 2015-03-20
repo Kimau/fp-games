@@ -1,0 +1,7 @@
+Syntax error 5.
+Expected literal in declaration.
+Found : IN
+
+
+Name	Type	Value
+x	int	6

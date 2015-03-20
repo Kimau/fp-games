@@ -1,0 +1,2 @@
+// test71.scl : Generates lexer error 1. Alternate 1.
+let string s = "Hello"

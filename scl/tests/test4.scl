@@ -1,0 +1,3 @@
+// test4.scl : Generates syner error 4.
+let int x 6 in
+  x end

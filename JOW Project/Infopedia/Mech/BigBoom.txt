@@ -1,0 +1,32 @@
+Big Boom
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Reconnaissance flare
+
+Another design by Erald Goonspoof, the BigBoom, built on the SteamFiend chassis, has the most firepower in the Mechana Defense Corpse. It launches steam powered shells over great distances. Because of the high precision requirements the barrel has to be fairly long to maintain accuracy. Because of this the BigBoom is fairly slow. To avoid being swarmed however, it is equipped with a reconnaissance flare to expose the surrounding terrain. Despite this, protecting it with support is important.
+
+Similar to the track of the SteamFiend, the BigBoom also employ the joined track structure. Because of the long barrel, the vehicle is wider at the sides, resulting in a bigger circumference. This, in effect, results in the total downward force being spread across the base. In combination, the vehicle's chassis does not reach up as high into the air as with the SteamFiend, making it less top heavy.
+
+The reconnaissance flare is launched by a small tube just behind the main barrel. This provides the BigBoom with information on the surrounding terrain as well as possibly hidden enemies lying in wait.
+
+Like the SteamFiend, the BigBoom also sports four boilers. Only one boiler is dedicated to propulsion however, and the remaining three are responsible for building up enough pressure to fire the huge cannon.

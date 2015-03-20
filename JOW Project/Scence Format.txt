@@ -1,0 +1,37 @@
+Name 	[Test Name]
+Map	[Map Filename]
+##################################################
+Game Mode 	[1]
+Game Rules	[1]
+Scence Script	[Script Filename or 0]	// Not Implemented
+################################################## (Optional From Here)
+Team Count	[2]
+Unit Count	[4]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit Count	[6]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+Unit pos,rot,ID	[x:y:z:Rot:ID]
+##################################################
+
+#define UID_ME_STEAMHEAD			301
+#define UID_ME_LUMBERJACK			302
+#define UID_ME_SLICENDICE			303
+#define UID_ME_RATATAT				304
+#define UID_ME_STEAMFIEND			305
+#define UID_ME_BIGBOOM				306
+#define UID_ME_COPTER				307
+
+#define UFN_ME_STEAMHEAD			"Mech\x5CSteamhead.unit"
+#define UFN_ME_LUMBERJACK			"Mech\x5CLumberjack.unit"
+#define UFN_ME_SLICENDICE			"Mech\x5CSlicenDice.unit"
+#define UFN_ME_RATATAT				"Mech\x5CRataTat.unit"
+#define UFN_ME_STEAMFIEND			"Mech\x5CSteamfiend.unit"
+#define UFN_ME_BIGBOOM				"Mech\x5C_BigBoom.unit"
+#define UFN_ME_COPTER				"Mech\x5C_Copter.unit"

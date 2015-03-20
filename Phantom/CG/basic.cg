@@ -1,0 +1,26 @@
+struct VertexIn
+{
+   float4 position   : POSITION;
+   float4 color      : COLOR;
+};
+
+
+struct VertexOut
+{
+   float4 position   : POSITION;
+   float4 color      : COLOR;
+};
+
+
+VertexOut main(VertexIn In, uniform float4x4 modelViewProj)
+{
+   VertexOut Out;
+
+   // Transform the position to clip space.
+   Out.position = mul(modelViewProj, In.position);
+
+   // Set the output color as the same color we sent by glColor3f().
+   Out.color = 1- In.color;
+
+   return Out;
+}

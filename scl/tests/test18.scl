@@ -1,0 +1,4 @@
+// test18.scl : Generates syner error 208.
+let bool x = false in
+let bool y = true  in
+  y / x end

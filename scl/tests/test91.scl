@@ -1,0 +1,8 @@
+// test91.scl : Use of >= on various ints.
+
+let int    i1   = 32767              in
+let int    i2   = 99                 in
+let int    i3   = 0                  in
+let int    i_4_ = 10                 in
+98 >= i2
+end

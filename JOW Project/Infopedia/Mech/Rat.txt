@@ -1,0 +1,34 @@
+Rat-a-tat-tank
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Hover, Jump
+
+Designed by Cylindric Geysersteam himself just after the breaking, the Rat-a-tat was meant to be a unit of exploration and espionage. Although its esoteric design extracted a great deal of criticism, it is now widely used. Cylindric, now a senior member of the Council of Mechana and an educational engineer at the Academy of Pneuma, uses his design to train others in the design of pneumatic propulsion assist, pressure levitation, steam valve timing cycles and steam injection applied to manoeuvrability. Its is also used as a base standard of the bare minimum armour-propulsion ratio that all other designs must exceed in order not to exceed the safety margin for use in combat. Finally it demonstrates the effective use of lightweight low calibre steamcannons. What makes the Rat-a-tat such an engineering marvel is the fact that all the above aspects have to be extremely precisely calculated and applied in order for the unit to function properly. If an imbalance would occur the hovering jet will not be able to compensate, causing the unit to lean or turn in an undesired manner.
+
+In order to concentrate all steam output into propulsion and give the unit its famed high acceleration and top velocity, only one precision steamjet is used. This has to be located in the exact centre of the rear hull of the unit to minimise steering deviation. The jet is located directly underneath the boiler. Although this goes against the design paradigm that states that steam must always flow upwards or forwards, the distance between the boiler and the jet is so small that the apparent loss of pressure is negligible. Had Cylindric followed the above mentioned design paradigm, the jet would have been too high above the centre of gravity of the unit, causing the nose to be forced into the ground. The boiler is external to the main body to maximise the already cramped interior space. Its spherical shape promotes aerodynamics without reducing efficiency.
+
+The manoeuvring jets are placed on each side of the nose and lend the Rat-a-tat an exceptionally high turn rate. As they are only used when manoeuvring, a portion of the steam pressure of the main jet is redirected to the manoeuvring jets. This results in reduced forward linear force, allowing a tighter turning circle. The wing-like stabilisers at the sides of the aft section of the hull ensure that the extra weight of the rear-mounted boiler and propulsion jet do not send the vehicle into a spin when turning at high speed.
+
+The entire bottom half of the Rat-a-tat serves as a secondary spread-boiler. The resulting steam pressure is spread across the vehicle's entire base, lifting it off the ground. This reduces the linear resistance that opposes the vehicle's forward vector, allowing even higher speeds than track drive would have. As all other units in the Mechana Defence Corpse have greater mass, the Rat-a-tat serves as the only example of such an extraordinary engineering feat.
+
+The secondary boiler in the base of the unit has been designed to built up more pressure that necessary to keep the vehicle aloft. Once enough surplus pressure has built up, it can all be released simultaneously by the operator. This gives the vehicle greater lift for ten seconds, allowing it to travel over obstacles or small crevices.

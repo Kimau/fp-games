@@ -1,0 +1,6 @@
+// test105.scl : Use of && on various bools.
+
+let bool   b1   = true               in
+let bool   b2   = false              in  
+b1 && true && b2 && false
+end

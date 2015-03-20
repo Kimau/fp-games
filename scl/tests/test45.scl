@@ -1,0 +1,4 @@
+// test45.scl : Generates syner error 3. Alternate 1.
+let int x = 6 in
+let int   = 7 in
+  x + y - x end

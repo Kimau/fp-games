@@ -1,0 +1,4 @@
+// test52.scl : Generates syner error 102. Alternate 1.
+let int x = 6 in
+let int y = 7 in
+  z + y + x end

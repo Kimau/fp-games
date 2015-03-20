@@ -1,0 +1,4 @@
+// test58.scl : Generates syner error 206. Alternate 1.
+let int   x = 6      in
+let float y = 7.6^34 in
+  98 * y end

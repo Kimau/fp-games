@@ -1,0 +1,32 @@
+Lumberjack
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Clearing
+
+The Lumberjack, a tall upright machine designed by Spleenfrid Hammernail, was designed to clear flora on neighbouring islands after the Portal Wars begun. The Mechana soon discovered, however, that it is just as lethal in close combat. Lumberjacks have been used to support the heavier BigBoom and Steamfiend machines ever since.
+
+The Lumberjack has a central cockpit with two legs connected to it. At the end of each leg a track is fitted. This gives the vehicle a bipedal appearance, despite the lack of the ability to actually walk. As the tracks can move independently, the Lumberjack is fairly agile compared to the heavier units. On each side of the cockpit an arm has been fitted. On the end of each arm is a spinning blade, lethal to anyone that would approach it, as well as foliage.
+
+The Lumberjack's clearing ability makes terrain more passable, especially for the heavier units.
+
+Three medium sized boilers have been fitted. Two boilers move the tracks and legs, while another moves the arms and spins the blades.

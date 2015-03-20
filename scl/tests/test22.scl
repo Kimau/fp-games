@@ -1,0 +1,4 @@
+// test22.scl : Generates syner error 212.
+let string s1 = "Hello\n"       in
+let string s2 = "Hello world\n" in
+  s1 == s2 end

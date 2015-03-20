@@ -1,0 +1,30 @@
+Slice-n-Dice
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Hover, 360 melee attack
+
+Another one of Cylindric Geysersteam's revolutionary designs, the Slice-n-Dice combines the state of the art steam engine of the SteamFiend with the steam cushion of the Rat-a-tat-tank. Although not as widely used for educational purposes as the Rat-a-tat, the Slice-n-Dice is very effective in combat. Its consists of a central core with a revolving disk around it. Four disk-shaped blades are connected to the disk. Once the Slice-n-Dice gets to speed, it can attack anything within its reach. Special caution must be taken however, as this unit can be just as lethal to the Mechana as it can be to the enemy when not used with care.
+
+The bottom part of the core contains a spread-boiler, similar to the type fitted to the Rat-a-tat. This keeps the vehicle hovering. Next to the very cramped cockpit another boiler rotates the bladed disk.
+
+Hovering above the ground, the Slice-n-Dice takes a few moments to reach optimal spin speed, but anything around it within the range of its blades will be processed peanuts within a fraction of a second. After its frenzy has finished it needs to cool down however, or risk blowing every single steam valve in the system. During this period the Slice-n-Dice is defenseless, and must be supported by other units.

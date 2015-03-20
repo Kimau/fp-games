@@ -1,0 +1,7 @@
+f1 * 19.0 * f2 * 20.343 * f3 * 0.1^56 * f4
+
+Name	Type	Value
+f4	float	1.234^565
+f3	float	1.23456789
+f2	float	0.1
+f1	float	0.0

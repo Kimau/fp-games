@@ -1,0 +1,7 @@
+Syntax error 6.
+Expected in after declaration.
+Found : IDENTIFIER : x
+
+
+Name	Type	Value
+x	int	6

@@ -1,0 +1,3 @@
+// test39.scl : Generates lexer error 11.
+let float f = 1^3 in
+  f

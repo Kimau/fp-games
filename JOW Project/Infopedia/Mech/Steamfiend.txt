@@ -1,0 +1,34 @@
+Steamfiend
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Charge
+
+What the Steam Fiend lacks in speed it makes up in armour and sheer fire-power. Making use of the very best steam propulsion engine the Steamheads can muster, this unit is an engineering masterpiece. It is moved forward on huge tracks, and sports a magnificent barrel. It also has the ability to build up steam and charge into battle. 
+
+The Steamfiend chassis had been the work horse of the Mechana even before the Breaking. Originally designed and built by one of the Source maintainers, Erald Goonspoof, it was used as an agricultural tool in the foothills of the Mechana world. It also served as transportation. After the Breaking it was fitted with armour and a steamcannon, rendering it effective in battle. Three extra boilers have also been fitted, resulting in a total of four. The only vehicle ever built with such enormous power, the Steamfiend battle-engine is the pride and joy of the the Steamheads, and a symbol of Mechana magnificence.
+
+Two of the four boilers drive its huge track, while the remaining two fire the high calibre steamcannon. This results in fire-power as powerful as the vehicle's propulsion. All boilers are cylindrical and externally fitted; two on each side of the chassis, as to spread the weight. The track is a single large mesh of metal wrapped around five enormous rollers. Steamfiends are commonly used to make roads with. Gaps in the mesh connect the track to the drive shafts and the vehicle's armoured body. 
+
+The vehicle's high calibre steamcannon fires an armour piercing steam propelled  projectiles at high speed. Two operators are required to operate the cannon. Another controls the vehicle, bringing the required personnel count to three.
+
+In critical situations the crew can decide to direct the steam pressure of the cannon to the propulsion system, giving the steam fiend a temporary burst in forward velocity, despite its mass.

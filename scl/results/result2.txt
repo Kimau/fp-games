@@ -1,0 +1,6 @@
+Syntax error 2.
+Expected type identifier in declaration.
+Found : IDENTIFIER : x
+
+
+Name	Type	Value

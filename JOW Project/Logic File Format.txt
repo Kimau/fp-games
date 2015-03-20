@@ -1,0 +1,32 @@
+-------------- LOGIC FILE --------------
+-------------- CELL INFORMATION --------
+Size	[3:3:2]
+================= Start Level ==========
+ *  *  *  
+*V**V**V* 
+ *  *  *  
+ *  *  *  
+*V**V**V* 
+ *  *  *  
+ *  *  *  
+*V**V**V* 
+ *  *  *  
+================= Start Jump ===========
+ *  *  *  
+*V**V**V* 
+ *  *  *  
+ *  *  *  
+*V**V**V* 
+ *  *  *  
+ *  *  *  
+*V**V**V* 
+ *  *  *  
+-------------- ENGINE INFORMATION ------
+-------------- FORMAT INFORMATION ------
+Cell information is fixed length format DONT USE TABS!!!
+Any character placed where a space is, is ignored.
+The walls can be represented by anything EXCEPT a space.
+The floor is be represented by ' ' or a number 0-4
+' ' means no floor whereas 
+The number represent a iteration of 0.2f
+On Level 3 a 2 is actually 1.7

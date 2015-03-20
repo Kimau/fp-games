@@ -1,0 +1,8 @@
+Type error 201.
+Mismatch between types in an expression.
+Found : END
+x != y
+
+Name	Type	Value
+y	float	7.0
+x	int	6

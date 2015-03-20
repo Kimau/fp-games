@@ -1,0 +1,23 @@
+zoom
+
+powerups
+	+hp
+	invisible
+	speed
+	shield
+
+level
+	walls
+	black holes
+	repulsificators
+
+ai
+	magnet creation
+	attack army
+	attack base
+	get powerups
+	retreat (protect base)
+
+win condition
+
+sound

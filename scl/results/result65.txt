@@ -1,0 +1,8 @@
+Type error 213.
+Attempt to use != operator with a string value.
+Found : END
+s2 != Goodbye\t\tCruel world\n
+
+Name	Type	Value
+s2	string	Hello world\n
+s1	string	Hello\n

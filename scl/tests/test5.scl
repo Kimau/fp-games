@@ -1,0 +1,3 @@
+// test5.scl : Generates syner error 5.
+let int x = in
+  x end

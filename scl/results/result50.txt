@@ -1,0 +1,8 @@
+Static semantic error 101.
+Attempt to re-declare identifier.
+Found : IDENTIFIER : x
+
+
+Name	Type	Value
+f	float	3.2^56
+x	int	6

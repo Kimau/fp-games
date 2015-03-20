@@ -1,0 +1,8 @@
+Type error 205.
+Attempt to use || operator with non-boolean operands.
+Found : END
+Hello || y
+
+Name	Type	Value
+y	string	world
+x	string	hello

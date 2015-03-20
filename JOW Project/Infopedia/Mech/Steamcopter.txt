@@ -1,0 +1,32 @@
+Steamcopter
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Flying, Bombing
+
+The Steamcopter is the first mechanical unit capable of full flying. It is the pride and joy of Steamhead Cloudrim Wingfeet. Although it is still in the 'prototype stage' (just because Wingfeet does not want to be held responsible if anybody gets injured or crash into a peanut farm), many future designs will be based on it, hopefully giving the Mechana the upper hand. It has a spinning rotor blade at the top of its chassis. This blade only serves as a way to keep the copter aloft, and cannot be used in combat. Also, the copter can travel through the air when it has accumulated enough steam pressure to keep the rotor blade spinning for prolonged periods of time. It is capable of exploring the terrain over larger distances, and can even drop explosives on unsuspecting targets from a high altitude.
+
+Like the Rat-a-tat, is was designed to have the minimum weight within the safety margin. Because it has no steamcannon and therefore no barrel, it is much lighter than the Rat-a-tat, and much less complicated to keep aloft. 
+
+Although the Steamcopter was originally designed to be a scouting vehicle, its single boiler was upgraded to be able to carry heavier loads. The Steamheads were able to add explosive devices to it, allowing the vehicle to double as a bombing unit.
+
+The Steamcopter has a very small cockpit and only one crew member. The boiler sits behind the cockpit, while the rotor is installed on top of the unit. The bombs are mounted to each side of the cockpit.

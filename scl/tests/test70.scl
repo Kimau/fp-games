@@ -1,0 +1,4 @@
+// test70.scl : Generates syner error 218. Alternate 1.
+let string s1 = "Hello world" in
+let string s2 = false         in
+  s1 <= s2 end

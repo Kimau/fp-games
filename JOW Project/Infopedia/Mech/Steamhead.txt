@@ -1,0 +1,26 @@
+Steamhead
+
+Statistics:
+
+Accuracy:
+Damage:
+Reach:
+
+Melee dodge:
+Indirect dodge:
+Armour:
+
+Health:
+Speed:
+Agility:
+
+Morale:
+Time Units (Tus):
+Army Points:
+
+Steam:
+
+Abilities:
+Heal, Boost steam
+
+Since the Council of Mechana was formed after the Breaking, the Steamhead has been the backbone of the entire Mechana. Bred on nothing but water and peanuts, they are not easily distracted from their work. Trained in the large academies of the Mechana world, the Steamheads are the elite of their class. Masters of physics, mechanics and dynamics, summarised as Steam Engineers, they are capable of single-handedly constructing and maintaining any mechanical steam powered device, regardless of the complexity or size of any such machinery. Although not trained to partake directly in combat themselves, they are accustomed to combat situations, and do not flinch when gears fly and boilers burst. More importantly, their presence is vital to ensure the large machinery stays operational in the heat of battle, at all times. They have been responsible for a plethora of common designs and creative innovations, but the Mechana Defense Corpse only implement machines designed by members of the Council themselves. Steamheads are therefore trained to maintain these huge beasts.

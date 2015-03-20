@@ -1,0 +1,8 @@
+Type error 211.
+Attempt to use ! operator with non-boolean operand.
+Found : END
+!(0.4)
+
+Name	Type	Value
+y	bool	true
+x	int	6

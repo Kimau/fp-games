@@ -1,0 +1,8 @@
+// test86.scl : Use of % on various ints.
+
+let int    i1   = 32767              in
+let int    i2   = 99                 in
+let int    i3   = 0                  in
+let int    i_4_ = 10                 in
+i1 % i2 % 99 % 93 % i3
+end

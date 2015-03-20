@@ -1,0 +1,7 @@
+Syntax error 3.
+Expected identifier in declaration.
+Found : ASSIGN
+
+
+Name	Type	Value
+x	int	6

@@ -1,0 +1,24 @@
+Name	[Rat-a-tat]
+Model	[Mech\Rat-a-tat.3ds]
+Texture	[Mech\Rat-a-tat.jpg]
+################################################	Physical Stats
+Health : Armour : Size	[75:10:8]
+Speed  : Agil   : Dodge	[80:40:25]
+Code   : Race   : Cost	[304:4:6]
+Move   : Climb  : Aura	[8:0:0]
+################################################	Functions
+Melee			[0:0:0]
+Direct			[0:0:0]
+InDirect		[0:0:0]
+Ability 0		[0:0:0]
+Ability 1		[0:0:0]
+Ability 2		[0:0:0]
+Ability 3		[0:0:0]
+Ability 4		[0:0:0]
+Ability 5		[0:0:0]
+Ability 6		[0:0:0]
+Ability 7		[0:0:0]
+Ability 8		[0:0:0]
+Ability 9		[0:0:0]
+################################################
+

@@ -1,0 +1,6 @@
+Type error 216.
+Attempt to use >= operator with a string value.
+Found : END
+This is  >= really boring
+
+Name	Type	Value

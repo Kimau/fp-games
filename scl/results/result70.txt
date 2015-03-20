@@ -1,0 +1,7 @@
+Type error 218.
+Mismatch between types in a declaration.
+Found : BOOLEAN LITERAL : false
+
+
+Name	Type	Value
+s1	string	Hello world

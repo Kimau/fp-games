@@ -1,0 +1,3 @@
+// test35.scl : Generates lexer error 7.
+let float f = [ in
+  f

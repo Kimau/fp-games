@@ -1,0 +1,4 @@
+// test36.scl : Generates lexer error 8.
+// Or at least it would if I could find a lexer error 8.
+// Use this as an empty program test. It will generate a
+// lexer unexpected EOF error.

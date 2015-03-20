@@ -1,0 +1,6 @@
+Type error 212.
+Attempt to use == operator with a string value.
+Found : END
+Hello == Hello world
+
+Name	Type	Value

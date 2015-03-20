@@ -1,0 +1,4 @@
+// test14.scl : Generates syner error 204.
+let bool x = false in
+let bool y = true  in
+  x - y end
