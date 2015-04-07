@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1264373935 source:/media/OS/Dev/TennisServer/TennisPlayer.cpp
+	"TennisPlayer.h"
+	"TennisServ.h"
+	<errno.h>
+
+1264364076 /media/OS/Dev/TennisServer/TennisPlayer.h
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<pthread.h>
+
+1264374802 source:/media/OS/Dev/TennisServer/TennisServ.cpp
+	"TennisServ.h"
+	<pthread.h>
+	<math.h>
+	<sys/time.h>
+
+1264371975 /media/OS/Dev/TennisServer/TennisServ.h
+	"TennisPlayer.h"
+
+1263169010 source:/media/OS/Dev/TennisServer/main.cpp
+	<iostream>
+	"TennisServ.h"
+
