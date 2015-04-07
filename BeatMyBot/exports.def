@@ -1,0 +1,4 @@
+LIBRARY Brain
+EXPORTS
+	GetBotInterface
+	FreeBotInterface
